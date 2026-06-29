@@ -30,8 +30,8 @@ export default {
         },
         backGroundColorChange(){
             return {
-                background: 'linear-gradient(-45deg, rgb('+ this.colorCustomArray[3] +'),rgb('+ this.colorCustomArray[2] +'),rgb('+ this.colorCustomArray[1] +'),rgb('+ this.colorCustomArray[0] +'))',
-                'background-size' : '400% 400%',
+                background: 'linear-gradient(270deg, rgb('+ this.colorCustomArray[3] +'),rgb('+ this.colorCustomArray[2] +'),rgb('+ this.colorCustomArray[1] +'),rgb('+ this.colorCustomArray[0] +'))',
+                'background-size' : '1000% 1000%',
                 animation: 'gradient 15s ease infinite',
                 height: '100vh',
             };

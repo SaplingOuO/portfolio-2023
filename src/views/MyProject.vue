@@ -20,6 +20,11 @@ export default {
                     description: '購物車、後台、會員練習',
                     // imageSRC: 'ABC',
                 },
+                {
+                    title: 'InProduction',
+                    description: '購物車、後台、會員練習',
+                    // imageSRC: 'ABC',
+                },
             ],
             showView: 1,
         };

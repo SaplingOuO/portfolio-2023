@@ -87,6 +87,11 @@ const routes = [
         name: 'ShopDemo',
         component: () => import('../components/MyProject/ShopDemo.vue'),
       },
+      {
+        path:'InProduction',
+        name: 'InProduction',
+        component: () => import('../components/MyProject/InProduction.vue'),
+      },
     ],
   },
 ]
