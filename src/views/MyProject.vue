@@ -22,7 +22,7 @@ export default {
                 },
                 {
                     title: 'InProduction',
-                    description: '購物車、後台、會員練習',
+                    description: '新作品集練習',
                     // imageSRC: 'ABC',
                 },
             ],
